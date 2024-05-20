@@ -1,2 +1,2 @@
 # LeetCode
-Practicing on LeetCode Editorial to learn new langagues
+Solutions to LeetCode questions divided into Easy, Medium and Hard.
