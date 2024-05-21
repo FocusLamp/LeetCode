@@ -1,5 +1,6 @@
 # Backtracking
-
+# Time Complexity: O(2^N)
+# Space Complexity: O(2^N)
 
 class Solution:
     def subsetXORSum(self, nums):
